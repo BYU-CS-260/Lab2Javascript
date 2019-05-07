@@ -18,7 +18,7 @@ laptop or other working environment.
 
 ## Tutorial
 
-Use the [tutorial](https://github.com/BYUCS260/Lab2Javascript/blob/master/home.md)
+Use the [tutorial](home.md)
 on the Wiki to get started with using the weather API. We'll begin by
 building a form that gets the current weather:
 
