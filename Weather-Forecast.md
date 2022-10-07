@@ -36,7 +36,7 @@ To format the results, you need to understand the JSON data that is returned. Th
       for (let i=0; i < json.list.length; i++) {
 	forecast += "<h2>" + moment(json.list[i].dt_txt).format('MMMM Do YYYY, h:mm:ss a') + "</h2>";
 	forecast += "<p>Temperature: " + json.list[i].main.temp + "</p>";
-	forecast += '<img src="http://openweathermap.org/img/w/' + json.list[i].weather[0].icon + '.png"/>'
+	forecast += '<img src="https://openweathermap.org/img/w/' + json.list[i].weather[0].icon + '.png"/>'
       }
       document.getElementById("forecastResults").innerHTML = forecast;
 ```
