@@ -14,7 +14,7 @@ First, edit `index.html` and add a new div for the results, right after the curr
 We will use the same event handler, since we are getting the forecast for the same city. At the end of the function, add the following:
 
 ```
-  const url2 = "http://api.openweathermap.org/data/2.5/forecast?q=" + value + ", US&units=imperial" + "&APPID=APIKEY";
+  const url2 = "https://api.openweathermap.org/data/2.5/forecast?q=" + value + ", US&units=imperial" + "&APPID=APIKEY";
   fetch(url2)
     .then(function(response) {
       return response.json();
