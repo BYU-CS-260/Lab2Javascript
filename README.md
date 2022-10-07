@@ -6,8 +6,7 @@ API](https://openweathermap.org/api).
 
 ## Starting the lab
 
-To start the lab, you must follow this [GitHub Classroom
-link](https://classroom.github.com/a/QzDAEI1o). This will create a
+To start the lab, you must use GitHub Classroom. This will create a
 private repository for you using our classroom site. We will only
 grade repositories created and submitted this way.
 
