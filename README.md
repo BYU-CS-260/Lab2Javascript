@@ -66,10 +66,10 @@ rubric:
 
 Item | Points
 --- | ---
-Search for current weather works | 40
-5-day/3-hour weather forecast added  | 30
-Effort spent creating a professional-looking webpage | 20
-Uses good web design principles | 10
+Search for current weather works | 20
+5-day/3-hour weather forecast added  | 20
+Display additional information that is returned from the API | 40
+Uses good web design principles | 20
 
 For the web design principles, you will receive 2 points for each for
 spacing, typography, color, consistency, and responsive design. We
